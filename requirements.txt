@@ -1,0 +1,6 @@
+- pyhocon==0.3.59
+- numpy==1.17.5
+- pandas==1.0.0
+- sklearn
+- pybind11
+- cmake==3.22.1
